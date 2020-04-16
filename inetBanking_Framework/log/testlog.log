@@ -1,0 +1,61 @@
+2020-04-14 15:13:20,577 - ebanking -INFO - URL entered
+2020-04-14 15:13:25,785 - ebanking -INFO - User ID entered
+2020-04-14 15:13:25,988 - ebanking -INFO - Password entered
+2020-04-14 15:13:27,108 - ebanking -INFO - clicked login button
+2020-04-14 15:13:28,011 - ebanking -INFO - Login successful
+2020-04-14 15:40:39,473 - ebanking -INFO - URL entered
+2020-04-14 15:40:41,528 - ebanking -INFO - User ID entered
+2020-04-14 15:40:41,613 - ebanking -INFO - Password entered
+2020-04-14 15:40:55,719 - ebanking -INFO - clicked login button
+2020-04-14 15:40:55,786 - ebanking -INFO - Login successful
+2020-04-14 15:50:07,125 - ebanking -INFO - URL entered
+2020-04-14 15:50:09,891 - ebanking -INFO - User ID entered
+2020-04-14 15:50:09,958 - ebanking -INFO - Password entered
+2020-04-14 15:50:19,419 - ebanking -INFO - clicked login button
+2020-04-14 15:50:19,537 - ebanking -INFO - Login successful
+2020-04-14 15:53:16,730 - ebanking -INFO - URL entered
+2020-04-14 15:53:18,460 - ebanking -INFO - User ID entered
+2020-04-14 15:53:18,528 - ebanking -INFO - Password entered
+2020-04-14 15:53:28,018 - ebanking -INFO - clicked login button
+2020-04-14 15:53:28,093 - ebanking -INFO - Login successful
+2020-04-14 16:01:04,551 - ebanking -INFO - URL entered
+2020-04-14 16:01:07,371 - ebanking -INFO - User ID entered
+2020-04-14 16:01:07,448 - ebanking -INFO - Password entered
+2020-04-14 16:01:15,907 - ebanking -INFO - clicked login button
+2020-04-14 16:01:16,028 - ebanking -INFO - Login successful
+2020-04-14 16:01:16,521 - ebanking -INFO - clicked logout button
+2020-04-14 16:03:10,247 - ebanking -INFO - URL entered
+2020-04-14 16:03:12,355 - ebanking -INFO - User ID entered
+2020-04-14 16:03:12,427 - ebanking -INFO - Password entered
+2020-04-14 16:03:39,576 - ebanking -INFO - clicked login button
+2020-04-14 16:03:39,667 - ebanking -INFO - Login successful
+2020-04-14 16:05:04,997 - ebanking -INFO - URL entered
+2020-04-14 16:05:08,509 - ebanking -INFO - User ID entered
+2020-04-14 16:05:08,565 - ebanking -INFO - Password entered
+2020-04-14 16:05:25,665 - ebanking -INFO - clicked login button
+2020-04-14 16:05:25,756 - ebanking -INFO - Login successful
+2020-04-14 16:05:49,803 - ebanking -INFO - clicked logout button
+2020-04-14 16:06:51,203 - ebanking -INFO - User ID entered
+2020-04-14 16:06:51,289 - ebanking -INFO - Password entered
+2020-04-14 16:06:52,386 - ebanking -INFO - clicked login button
+2020-04-14 16:06:52,556 - ebanking -INFO - Login failed. Incorrect credentials
+2020-04-14 16:06:54,203 - ebanking -INFO - User ID entered
+2020-04-14 16:06:54,320 - ebanking -INFO - Password entered
+2020-04-14 16:06:55,916 - ebanking -INFO - clicked login button
+2020-04-14 16:06:56,075 - ebanking -INFO - Login failed. Incorrect credentials
+2020-04-14 16:06:57,862 - ebanking -INFO - User ID entered
+2020-04-14 16:06:57,924 - ebanking -INFO - Password entered
+2020-04-14 16:06:58,616 - ebanking -INFO - clicked login button
+2020-04-14 16:06:58,757 - ebanking -INFO - Login failed. Incorrect credentials
+2020-04-14 16:07:00,787 - ebanking -INFO - User ID entered
+2020-04-14 16:07:00,831 - ebanking -INFO - Password entered
+2020-04-14 16:07:01,536 - ebanking -INFO - clicked login button
+2020-04-14 16:07:01,648 - ebanking -INFO - Login failed. Incorrect credentials
+2020-04-17 00:43:03,433 - ebanking -INFO - URL entered
+2020-04-17 00:43:04,201 - ebanking -INFO - User ID entered
+2020-04-17 00:43:04,263 - ebanking -INFO - password entered
+2020-04-17 00:43:11,889 - ebanking -INFO - Clicked Login button
+2020-04-17 01:29:25,017 - ebanking -INFO - URL entered
+2020-04-17 01:29:26,084 - ebanking -INFO - User ID entered
+2020-04-17 01:29:26,247 - ebanking -INFO - password entered
+2020-04-17 01:29:33,829 - ebanking -INFO - Clicked Login button
