@@ -1,4 +1,6 @@
-2020-04-17 01:29:25,017 [main] INFO ebanking - URL entered
-2020-04-17 01:29:26,084 [main] INFO ebanking - User ID entered
-2020-04-17 01:29:26,247 [main] INFO ebanking - password entered
-2020-04-17 01:29:33,829 [main] INFO ebanking - Clicked Login button
+2020-04-17 18:25:56,889 [main] INFO ebanking - URL entered
+2020-04-17 18:25:59,588 [main] INFO ebanking - User ID entered
+2020-04-17 18:25:59,638 [main] INFO ebanking - Password entered
+2020-04-17 18:26:09,924 [main] INFO ebanking - clicked login button
+2020-04-17 18:26:10,119 [main] INFO ebanking - Login successful
+2020-04-17 18:26:10,356 [main] INFO ebanking - clicked logout button

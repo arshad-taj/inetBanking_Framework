@@ -7,7 +7,8 @@
   <test thread-count="5" name="Test">
   <parameter name="browser" value="firefox"></parameter>
     <classes>
-      <class name="com.inetBanking.testCases.TC002_LoginTestDataProvider"/>
+    <class name="com.inetBanking.testCases.TC001_LoginTest"/>
+     <!-- <class name="com.inetBanking.testCases.TC002_LoginTestDataProvider"/>-->
       <!-- <class name="com.inetBanking.testCases.TC003_AddNewCustomer"/>-->
     </classes>
   </test> <!-- Test -->
